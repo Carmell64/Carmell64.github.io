@@ -1,0 +1,5 @@
+body{background-image:url(background.png)}
+h1{border-style: dotted; color: violet; text-align: center; text-shadow: 2px 2px pink; font-family: "Georgia", serif;}
+h2{text-align: center; color: black; font-family: "Georgia"; font-size: 16px; text-shadow: 2px 2px pink}
+p{text-align: right; color:pink; font-family: "Courier New", serif; font-size: 16px}
+img{border-radius: 50%}
